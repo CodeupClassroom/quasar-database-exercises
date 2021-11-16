@@ -1,0 +1,1 @@
+# quasar-database-exercises
